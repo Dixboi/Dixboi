@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning the basics of JavaScript and Python
+- 🌱 I’m currently learning the basics of JavaScript and Python
+- :bulb: Looking for ideas and hoping to collaborate on projects related to data science and building applications
+- 
