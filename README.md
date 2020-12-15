@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **the basics of JavaScript and improving my knowledge on Python**
 
-- 📫 How to reach me **dexterraimon@gmail.com**
+- 📫 How to reach me **raimondextervinluan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
