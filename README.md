@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [my nutrition project](https://github.com/Dixboi/DataJourney/tree/main/Projects/Nutrition) where I practice cleaning data, analyze food for people with ulcer, and prediction of certain nutrients.
 
-- 🌱 I’m currently learning **Solidity and the basics of Data Science**
+- 🌱 I’m currently learning **the syntax of Solidity and the basics of Data Science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Dixboi](https://github.com/Dixboi)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Dixboi)
 
 - 📫 How to reach me **raimondextervinluan@gmail.com**
 
