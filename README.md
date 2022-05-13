@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/driedpotat" target="blank"><img src="https://img.shields.io/twitter/follow/driedpotat?logo=twitter&style=for-the-badge" alt="driedpotat" /></a> </p>
 
-- 🔭 I’m currently working on [my nutrition project](https://github.com/Dixboi/DataJourney/tree/main/Projects/Nutrition) where I practice cleaning data, analyze food for people with ulcer, and prediction of certain nutrients.
+- 🔭 Currently working on the feature engineering course from Kaggle.
 
-- 🌱 I’m currently learning **the syntax of Solidity and the basics of Data Science**
+- 🌱 Currently learning **the syntax of Solidity and the basics of Data Science**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Dixboi)
 
