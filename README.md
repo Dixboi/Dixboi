@@ -3,13 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dixboi&label=Profile%20views&color=0e75b6&style=flat" alt="dixboi" /> </p>
 
-- 🌱 I’m currently learning **MS Power BI for doing data analysis**
-
-- 👨‍💻 All of my projects are available at [https://dex-dixboi.notion.site/About-Me-fef1dc30e8a2440eb3db64b756fddb21](https://dex-dixboi.notion.site/About-Me-fef1dc30e8a2440eb3db64b756fddb21)
+- 🌱 I’m currently learning **Data Engineering**
 
 - 📫 How to reach me **raimondextervinluan@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1h3AKBaRLtVcrOKEIGe4bRu39IUVCjG2l/view?usp=share_link](https://drive.google.com/file/d/1h3AKBaRLtVcrOKEIGe4bRu39IUVCjG2l/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
