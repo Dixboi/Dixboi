@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Raimon Dexter Vinluan</h1>
-<h3 align="center">A Data Scientist Associate and a Computer Engineering student</h3>
+<h3 align="center">A Data Engineer Associate and an Automation Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dixboi&label=Profile%20views&color=0e75b6&style=flat" alt="dixboi" /> </p>
 
-- 🌱 I’m currently learning **Data Engineering**
+- 🌱 I’m currently learning **Data Engineering, Automation, and Cloud technologies.**
 
 - 📫 How to reach me **raimondextervinluan@gmail.com**
 
