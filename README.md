@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Raimon Dexter Vinluan</h1>
-<h3 align="center">Currently a Data Engineer Associate and an Automation Engineer. AI Expert soon!</h3>
+<h1 align="center">Hi 👋 Welcome to my Github profile!</h1>
+<h3 align="center">Currently a Data Engineer Associate and an Automation Engineer. Soon to be an AI Expert!</h3>
 <br>
 <br>
 <br>
@@ -63,7 +63,7 @@ Ensures to be literate in the field of Data and AI, and to know how to manage th
 Makes data and AI models available in public or running 24/7
 
 # CONTENTS
-This repo is divided into three parts:
+My Github profile is divided into three parts:
 
 ## 🏅 Certification
 Preparation, collection, and notes for all of the certifications that I'm trying and I've taken
@@ -96,8 +96,18 @@ Application of all my learnings like big or small projects
 ### Competition
 1. [2023 Kaggle AI Report](https://github.com/Dixboi/AI-Expert/tree/main/Practical/Projects/2023%20Kaggle%20AI%20Report)
 
-### Personal Projects
+### Pinned Projects
 1. [Philippine Earthquakes](https://github.com/Dixboi/AI-Expert/tree/main/Practical/Projects/PH%20Earthquakes)
+
+### Personal Projects
+**SOON!**
 
 ### 🧠 Theoretical
 Collection of all the resources that help me to understand my target fields
+
+# How to reach me
+📫 Email: **raimondextervinluan@gmail.com**
+<p align="left">
+<a href="https://linkedin.com/in/raimon-dexter-vinluan-9b56bb239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raimon-dexter-vinluan-9b56bb239/" height="30" width="40" /></a>
+<a href="https://kaggle.com/raimondextervinluan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="raimondextervinluan" height="30" width="40" /></a>
+</p>
