@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋 Welcome to my Github profile!</h1>
 <h3 align="center">Currently a Data Engineer Associate and an Automation Engineer. Soon to be an AI Expert!</h3>
 <br>
-<br>
-<br>
 <h2 align="center">LEARNING DIVISIONS</h2>
+<p align="center">Here lies all of my learnings and my journey on becoming an AI Expert</p>
 
 ```mermaid
 mindmap
