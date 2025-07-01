@@ -1003,3 +1003,42 @@ Visualizing a histogram can definitely provide a lot of insight into the distrib
 The head of the distribution is the area where a significant number of values are concentrated. The position of this area is not necessarily at the center of the histogram, especially if the histogram is skewed to one side.
 
 The distribution's tails are the histogram's parts that start narrowing down. When many values are spread out far from the head of the distribution, this is known as a long tail. You can see an example of a long tail in this image.
+
+## Deep Learning's rise
+
+**Situation**
+
+Jenna had always been fascinated by the rise and prominence of deep learning in the tech world.
+
+One afternoon, while on a call with her mentor discussing various aspects of her career, she couldn't help but bring up the topic of deep learning's surge in popularity.
+
+Her mentor, a veteran in the field, agreed with her observations and mentioned that many of the principles in deep learning today were already present in the '90s. However, the circumstances then did not allow for today's boom.
+
+Intrigued, Jenna wondered what these "circumstances" could be.
+
+Which of the following reasons contributed to the rise in popularity of deep learning?
+
+• The development and improvement of algorithms made training deep networks possible.
+
+• The gaming industry's massive investment in developing fast, parallel chips.
+
+• The beginning of the latest AI Winter drew significant positive press and encouraged investments in the field.
+
+• The proliferation of the Internet allowed the collection and distribution of massive amounts of data.
+
+**Explanation**
+
+In the book Deep Learning with Python, Second Edition, François Chollet remarks:
+
+(...) typical deep learning models used in computer vision or speech recognition require significantly more computational power than a standard laptop can provide. Throughout the 2000s, companies like NVIDIA and AMD pumped in billions of dollars in developing fast, massively parallel chips (graphical processing units, or GPUs) to power the graphics of progressively photorealistic video games (...)
+
+This huge investment provided a big push to deep learning: the required computing power suddenly became readily available.
+
+Similarly, the Internet played a significant role in fueling the popularity of deep learning. Its wide usage facilitated the collection and distribution of enormous amounts of data, which is crucial for powering these algorithms.
+
+Moreover, several key algorithmic improvements enabled the scientific community to train deep neural networks effectively. These included:
+
+Better activation functions for neural layers
+Improved weight-initialization schemes
+More efficient optimization schemes
+However, the "AI Winter" refers to a period of reduced funding and interest in artificial intelligence research. Contrary to the statement in the third choice, it was not associated with a positive press or increased investment in the field. Hence, it's not a correct reason for the rise in popularity of deep learning.
