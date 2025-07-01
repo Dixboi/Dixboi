@@ -69,25 +69,7 @@ Preparation, collection, and notes for all of the certifications that I'm trying
 
 ### Exam
 
-#### ABBYY
-1. [ABBYY FlexiCapture 12 Specialist](https://github.com/Dixboi/AI-Expert/blob/main/Certification/ABBYY/ABBYY%20-%20ABBYY%20FlexiCapture%2012%20Specialist.pdf)
-
-#### DataCamp
-1. [AI Fundamentals](https://github.com/Dixboi/AI-Expert/blob/main/Certification/DataCamp/Career/DataCamp%20-%20AI%20Fundamentals.pdf)
-2. [Data Engineer Associate](https://github.com/Dixboi/AI-Expert/blob/main/Certification/DataCamp/Career/DataCamp%20-%20Data%20Engineer%20Associate.pdf)
-3. [Data Literacy](https://github.com/Dixboi/AI-Expert/blob/main/Certification/DataCamp/Career/DataCamp%20-%20Data%20Literacy.pdf)
-4. [Data Scientist Associate](https://github.com/Dixboi/AI-Expert/blob/main/Certification/DataCamp/Career/DataCamp%20-%20Data%20Scientist%20Associate.pdf)
-
-#### HackerRank
-1. [SQL Basics](https://github.com/Dixboi/AI-Expert/tree/main/Certification/Hackerrank), [HackerRank Certificate Link](https://www.hackerrank.com/certificates/683342423f1b)
-
 ### Training
-
-#### Blue Prism
-1. [Blue Prism Foundation Training](https://github.com/Dixboi/AI-Expert/blob/main/Certification/Blue%20Prism/Blue%20Prism%20-%20Foundation%20Training.pdf)
-
-#### Make
-1. [Make Foundation Training and Assessment](https://github.com/Dixboi/AI-Expert/tree/main/Certification/Make), [Credly Link](https://www.credly.com/badges/24121d80-b777-44ab-8fdc-edcd915fdb50/public_url)
 
 ## 💪 Practical
 Application of all my learnings like big or small projects
